@@ -1,8 +1,8 @@
 {
-  "apiKey": "",
-  "apiSecret": "",
-  "to": "",
-  "from": "",
+  "apiKey": "NasdfasdfUKH4XH4N",
+  "apiSecret": "AE2A1asfasdfasf0RCCKRMU7XNUZXWLI",
+  "to": "01022223333",
+  "from": "01022223333",
   "text": "Hello Solapi",
   "type": "SMS"
 }
